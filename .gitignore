@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+/lead_scoring/src/data/dataset/*
+/lead_scoring/src/data/dataset/
+
+/lead_scoring/src/results/*
+/lead_scoring/src/results/
